@@ -1,15 +1,14 @@
 # UberMario
 Recreation of NES Super Mario Bros and just continuous adding of new levels because I'm bored.
 
-##Prerequisites - Install the following:
+##Prerequisites
 * [Node](https://nodejs.org/en/)
-* [Gulp]() 
-*   `npm install gulp -g`
-* [Bower](http://bower.io/) `npm install bower -g`
-* [Yeoman](http://yeoman.io/) `npm install yo -g` 
-* [Phaser-Browserify](https://www.npmjs.com/package/generator-phaser-browserify) Yeoman generator `npm install generator-phaser-browserify -g`
+* [Gulp](http://gulpjs.com/)
+* [Bower](http://bower.io/)
+* [Yeoman](http://yeoman.io/) 
+* [Phaser-Browserify](https://www.npmjs.com/package/generator-phaser-browserify) Yeoman generator
 
-###Or All Together
+####Installation
 `npm install gulp bower yo generator-phaser-browserify -g`
 
 More to come...
